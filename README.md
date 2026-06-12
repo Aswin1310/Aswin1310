@@ -1,137 +1,68 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f6f8fa;
-            margin: 0;
-            padding: 20px;
-        }
+<h1 align="center">Hi 👋, I'm Your Name</h1>
 
-        .container {
-            max-width: 900px;
-            margin: auto;
-            display: flex;
-            gap: 20px;
-        }
+<h3 align="center">Full Stack Developer | Open Source Enthusiast</h3>
 
-        .sidebar {
-            width: 280px;
-            text-align: center;
-        }
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
-        .sidebar img {
-            width: 200px;
-            height: 200px;
-            border-radius: 50%;
-        }
+<hr>
 
-        .sidebar h1 {
-            margin: 10px 0 5px;
-        }
+<h2>👨‍💻 About Me</h2>
 
-        .sidebar p {
-            color: #586069;
-        }
+<ul>
+  <li>🔭 Currently working on exciting web projects</li>
+  <li>🌱 Learning React, Node.js, and Cloud Technologies</li>
+  <li>💬 Ask me about HTML, CSS, JavaScript, and Python</li>
+  <li>📫 Reach me at: your.email@example.com</li>
+</ul>
 
-        .main {
-            flex: 1;
-        }
+<h2>🛠️ Skills</h2>
 
-        .card {
-            background: white;
-            padding: 15px;
-            margin-bottom: 15px;
-            border: 1px solid #d0d7de;
-            border-radius: 8px;
-        }
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
 
-        .repo {
-            padding: 10px;
-            border-bottom: 1px solid #eaecef;
-        }
+<h2>🚀 Featured Projects</h2>
 
-        .repo:last-child {
-            border-bottom: none;
-        }
+<table>
+<tr>
+<td width="50%">
+<h3>Portfolio Website</h3>
+<p>Personal portfolio showcasing my projects and skills.</p>
+</td>
 
-        .repo h3 {
-            margin: 0;
-            color: #0969da;
-        }
+<td width="50%">
+<h3>Task Manager App</h3>
+<p>A productivity application built using React and Node.js.</p>
+</td>
+</tr>
+</table>
 
-        .skills span {
-            display: inline-block;
-            background: #ddf4ff;
-            color: #0969da;
-            padding: 5px 10px;
-            border-radius: 20px;
-            margin: 4px;
-        }
-    </style>
-</head>
-<body>
+<h2>📊 GitHub Stats</h2>
 
-<div class="container">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
+</p>
 
-    <!-- Sidebar -->
-    <div class="sidebar">
-        <img src="https://via.placeholder.com/200" alt="Profile Picture">
-        <h1>Your Name</h1>
-        <p>@username</p>
-        <p>Full Stack Developer | Open Source Enthusiast</p>
-    </div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" />
+</p>
 
-    <!-- Main Content -->
-    <div class="main">
+<h2>🌐 Connect With Me</h2>
 
-        <div class="card">
-            <h2>About Me</h2>
-            <p>
-                Passionate developer who loves building web applications,
-                learning new technologies, and contributing to open-source projects.
-            </p>
-        </div>
+<p>
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> |
+  <a href="https://twitter.com/yourprofile">Twitter</a> |
+  <a href="mailto:your.email@example.com">Email</a>
+</p>
 
-        <div class="card">
-            <h2>Skills</h2>
-            <div class="skills">
-                <span>HTML</span>
-                <span>CSS</span>
-                <span>JavaScript</span>
-                <span>React</span>
-                <span>Node.js</span>
-                <span>Python</span>
-            </div>
-        </div>
-
-        <div class="card">
-            <h2>Featured Repositories</h2>
-
-            <div class="repo">
-                <h3>Portfolio Website</h3>
-                <p>Personal portfolio showcasing projects and skills.</p>
-            </div>
-
-            <div class="repo">
-                <h3>Task Manager App</h3>
-                <p>A simple productivity app built with React and Node.js.</p>
-            </div>
-
-            <div class="repo">
-                <h3>Weather Dashboard</h3>
-                <p>Displays live weather information using a public API.</p>
-            </div>
-
-        </div>
-
-    </div>
-
-</div>
-
-</body>
-</html>
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
